@@ -22,24 +22,17 @@ body {
 	left: 0;
 	overflow: hidden;
 }
+/*
 a{
-    font-size: 110%;
 	color: #0A66C2;
-    text-decoration:none;
-}
-
-
-.link{
+    float: right;
     width: 200%;
 	position: absolute;
-    display: inline-block;
-	overflow: hidden;
     text-align: center;
     font-size: 150%;
-	color: #ecf0f1;
 	font-family: 'Poiret One', cursive;
-    padding-top: 20vh;
 }
+*/
 
 .main {
 	position: absolute;
